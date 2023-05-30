@@ -25,6 +25,7 @@ NumberOfTimes90DaysLate, NumberOfTime60-89DaysPastDueNotWorse –убиваем,
 
 
 
+
 Сравнение показателей разных моделей и разных подходов к обработке признаков.
 
 

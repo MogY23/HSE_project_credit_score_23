@@ -1,12 +1,15 @@
 3 варианта расчета:
 1.	CS_ver_of_MY_new.ipynb
+
 1 категориальный признак – Group age
 RealEstateLoansOrLines (закодированное кол-во кредитов) - тк показатель количественный, попробуем его перевести в числовой вид 
 NumberOfTimes90DaysLate, NumberOfTime60-89DaysPastDueNotWorse –убиваем, тк корреляция большая
 2.	CS_ver_of_MY_new2.ipynb
+
 2 категориальных признака – Group age, RealEstateLoansOrLines 
 NumberOfTimes90DaysLate, NumberOfTime60-89DaysPastDueNotWorse –убиваем, тк корреляция большая
 3.	CS_ver_of_MY_new3.ipynb
+
 Age – убиваем, будем опираться на Group age 
 1 категориальный признак – Group age
 RealEstateLoansOrLines (закодированное кол-во кредитов) - тк показатель количественный, попробуем его перевести в числовой вид 
